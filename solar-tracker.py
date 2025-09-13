@@ -22,5 +22,4 @@ def track_solar_panel():
 
 if __name__ == "__main__":
     track_solar_panel()
-git remote remove origin
-git remote add origin https://github.com/<akhildragon-07>/<akhildragon-07>.git
+
