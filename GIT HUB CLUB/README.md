@@ -11,3 +11,4 @@ Automated motorized adjustment of solar panels.
 Energy efficiency monitoring.
 
 User-friendly interface (optional, if any dashboard is implemented).
+
