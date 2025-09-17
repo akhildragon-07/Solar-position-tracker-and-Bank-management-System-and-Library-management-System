@@ -1,14 +1,10 @@
-Overview
+# 👋 Hi, I'm AKHIL RAJAN
 
-The Solar Panel Sun-Position Tracking System is designed to optimize solar energy capture by automatically adjusting the solar panel orientation based on the sun’s position. This increases efficiency compared to fixed panels and is ideal for renewable energy projects.
+🚀 Passionate developer who loves building full-stack applications, solving problems, and learning new technologies every day.  
 
-Features
+---
 
-Real-time sun position tracking using sensors or astronomical algorithms.
-
-Automated motorized adjustment of solar panels.
-
-Energy efficiency monitoring.
-
-User-friendly interface (optional, if any dashboard is implemented).
-
+## 🔥 About Me  
+- 💻 I’m interested in **Full Stack Development, APIs, and System Design**  
+- 🛠️ Currently working on **end-to-end web apps** (Next.js + Node.js + MySQL/MongoDB)  
+- 📚 Exploring **Cloud, DevOps, and AI integrations**  
