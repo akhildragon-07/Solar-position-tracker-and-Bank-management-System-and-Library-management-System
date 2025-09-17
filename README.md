@@ -1,24 +1,11 @@
-🏦 Bank Management System (Python + MySQL)
+# 👋 Hi, AKHIL RAJAN P
 
-A simple Bank Management System built in Python with MySQL database integration.
-This project allows users to open new accounts, deposit & withdraw money, view account details, and check account statements through a console-based menu.
+🚀 Passionate student who loves building full-stack applications, solving problems, and learning new technologies every day.  
 
-🚀 Features
+---
 
-Open a New Account (with auto-generated account number)
-
-View Account Details (secured with password verification)
-
-Deposit Money (updates balance instantly)
-
-Withdraw Money (with balance validation)
-
-Account Statement (quick summary of account)
-
-Secure Authentication (account number + password)
-
-🛠️ Tech Stack
-
-Python 3.x
-
-MySQL Database
+## 🔥 About Me  
+- 💻 I’m interested in **Full Stack Development, APIs, and System Design**  
+- 🛠️ Currently working on **end-to-end web apps** (Next.js + Node.js + MySQL/MongoDB)  
+- 📚 Exploring **Cloud, DevOps, and AI integrations**  
+- 🎯 Goal: To build impactful projects and contribute to open source  
