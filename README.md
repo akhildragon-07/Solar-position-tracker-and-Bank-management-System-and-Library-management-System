@@ -1,13 +1,24 @@
+🏦 Bank Management System (Python + MySQL)
 
-Hi, I’m Akhil Rajan 👋
-I’m a CSE (AIML) student 
+A simple Bank Management System built in Python with MySQL database integration.
+This project allows users to open new accounts, deposit & withdraw money, view account details, and check account statements through a console-based menu.
 
-🔭 Working on: Solar panel sun-position tracking system
+🚀 Features
 
-🌱 Learning: LLMs and web development
+Open a New Account (with auto-generated account number)
 
-🎯 Interests: AI in healthcare & sustainability projects
+View Account Details (secured with password verification)
 
-⚡ Outside tech: I enjoy sports, design and gaming
+Deposit Money (updates balance instantly)
 
-Always open to collaborating on ideas that make a real impact 🚀
+Withdraw Money (with balance validation)
+
+Account Statement (quick summary of account)
+
+Secure Authentication (account number + password)
+
+🛠️ Tech Stack
+
+Python 3.x
+
+MySQL Database
